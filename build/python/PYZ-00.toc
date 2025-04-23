@@ -1,0 +1,1 @@
+('D:\\MicrosoftVSCode\\Projects\\XD\\build\\python\\PYZ-00.pyz', [])
