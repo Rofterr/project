@@ -20,4 +20,4 @@ Password Generator — это простое приложение для ген�
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Rofterr/project/
-   cd password-generator
+   cd project
