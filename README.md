@@ -21,5 +21,5 @@ Password Generator — это простое приложение для ген�
    ```bash
    git clone https://github.com/Rofterr/project/
    cd project
-   pyinstaller --onefile --windowed --icon=snow.ico --name=Passwgen python.py
    pip install -r requirements.txt
+   pyinstaller --onefile --windowed --icon=snow.ico --name=Passwgen python.py
